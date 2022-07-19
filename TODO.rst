@@ -1,0 +1,4 @@
+- odczytać nr etykiety
+- połączyć części programu w całość
+- wizualnie poprawić kod
+- dodać dodatkowe sprawdzanie czy skóra nie jest obrócona
